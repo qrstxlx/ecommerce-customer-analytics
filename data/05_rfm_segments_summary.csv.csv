@@ -1,0 +1,8 @@
+"customer_segment","total_customers","pct_of_customers","avg_recency_days","avg_frequency","avg_monetary","total_segment_revenue"
+"Champions / VIP",1366,31.49,17.2,9.1,4943.36,6752632.41
+"Potential Loyalists",783,18.05,83.1,3.3,1248.22,977359.90
+"Hibernating / Lost",906,20.89,255.0,1.2,425.76,385738.84
+"At Risk (High Value)",179,4.13,206.1,3.7,1796.55,321582.10
+"Loyal Customers",539,12.43,22.8,2.2,445.91,240346.78
+"Promising / Needs Attention",302,6.96,85.7,1.0,461.19,139277.98
+"Recent New Customers",263,6.06,26.9,1.0,359.27,94487.89
